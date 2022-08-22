@@ -34,4 +34,3 @@ while True:
         print("Status code: ", send_data.status_code)
         if(send_data.status_code ==  200):
           last_time_sent = date.today()
-                                                                                          3,1           Top
